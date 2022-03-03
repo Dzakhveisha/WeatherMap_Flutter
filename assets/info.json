@@ -1,0 +1,116 @@
+{
+  "CityInfo": [
+    {
+      "name": "London",
+      "weather": "13",
+      "latitude": "51.47430",
+      "longitude": "-0.03029",
+      "imgPath": "london.png"
+    },
+    {
+      "name": "Minsk",
+      "weather": "0",
+      "latitude": "53.90940",
+      "longitude": "27.48966",
+      "imgPath": "minsk.jpg"
+    },
+    {
+      "name": "Moscow",
+      "weather": "-2",
+      "latitude": "55.76281",
+      "longitude": "37.61590",
+      "imgPath": "moscow.png"
+    },
+    {
+      "name": "Kiyv",
+      "weather": "1",
+      "latitude": "50.43680",
+      "longitude": "30.53741",
+      "imgPath": "kiyv.jpg"
+    },
+    {
+      "name": "Bali",
+      "weather": "-2",
+      "latitude": "-8.362127816603358",
+      "longitude": "115.08174659173804",
+      "imgPath": "bali.jpg"
+    },
+    {
+      "name": "Paris",
+      "weather": "5",
+      "latitude": "48.860110761237074",
+      "longitude": "2.349264514353502",
+      "imgPath": "paris.jpg"
+    },
+    {
+      "name": "Venice",
+      "weather": "7",
+      "latitude": "45.437880414380054",
+      "longitude": "12.340518442891321",
+      "imgPath": "venice.jpg"
+    },
+    {
+      "name": "Beijing",
+      "weather": "12",
+      "latitude": "39.904019727360264",
+      "longitude": "116.4133995364514",
+      "imgPath": "beijing.jpg"
+    },
+    {
+      "name": "Madrid",
+      "weather": "12",
+      "latitude": "40.413573183567",
+      "longitude": "-3.7056633411640174",
+      "imgPath": "madrid.jpg"
+    },
+    {
+      "name": "Tokyo",
+      "weather": "12",
+      "latitude": "35.685464671887594",
+      "longitude": "139.76540161038085",
+      "imgPath": "tokyo.jpg"
+    },
+    {
+      "name": "Berlin",
+      "weather": "12",
+      "latitude": "52.519390308529246",
+      "longitude": "13.409016012754273",
+      "imgPath": "berlin.jpg"
+    },
+    {
+      "name": "San Francisco",
+      "weather": "12",
+      "latitude": "37.768604946024",
+      "longitude": "-122.42728200950866",
+      "imgPath": "sf.jpg"
+    },
+    {
+      "name": "New York",
+      "weather": "12",
+      "latitude": "40.712455300498654",
+      "longitude": "-74.0049855836774",
+      "imgPath": "NYC.jpg"
+    },
+    {
+      "name": "Cape Town",
+      "weather": "12",
+      "latitude": "-33.9227450348719",
+      "longitude": "18.425000794873828",
+      "imgPath": "ct.jpg"
+    },
+    {
+      "name": "Krakow",
+      "weather": "12",
+      "latitude": "50.066592652682495",
+      "longitude": "19.943767898438523",
+      "imgPath": "krakow.jpg"
+    },
+    {
+      "name": "Tallinn",
+      "weather": "12",
+      "latitude": "40.38677117554073",
+      "longitude": "43.88038104392725",
+      "imgPath": "tallinn.jpg"
+    }
+  ]
+}
